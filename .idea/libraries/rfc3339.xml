@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="rfc3339" type="mix">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/deps/rfc3339/lib" />
+      <root url="file://$PROJECT_DIR$/deps/rfc3339/src" />
+    </SOURCES>
+  </library>
+</component>
